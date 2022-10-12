@@ -1,5 +1,5 @@
 # react_project
-신사업TF팀의 업무를 위한 React 스터디
+신사업TF팀의 업무를 위한 React 스터디_tictactoe
 
 1. React 도서 구매
     - React를 다루는 기술 / 김민준 (길벗출판사)
