@@ -1,4 +1,4 @@
-# react_project
+# react_project_1_tictactoe
 신사업TF팀의 업무를 위한 React 스터디_tictactoe
 
 1. React 도서 구매
